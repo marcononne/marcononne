@@ -1,4 +1,10 @@
-### Hi there 👋
+### 💫 About Me:
+Hi! My name is Marco and I'm currently studying Computer Science at UniTo.
+I'm more interested in back-end and high level programming, but I've also worked in both front-end and low level contexts.
+I'm always open to explore new technologies in order to expand my knowledge bag.
+
+### Interests
+
 
 <!--
 **marcononne/marcononne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
