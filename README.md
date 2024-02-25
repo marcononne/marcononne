@@ -4,7 +4,8 @@ I'm more interested in back-end and high level programming, but I've also worked
 I'm always open to explore new technologies in order to expand my knowledge bag.
 
 ### Interests
-
+- I'm a huge sports fan, interested in both individual and team sports.
+- In the last few months I've been a contributor for Around The Game, an italian online magazine focused on the NBA.
 
 <!--
 **marcononne/marcononne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
