@@ -3,7 +3,7 @@ Hi! My name is Marco and I'm currently studying Computer Science at UniTo.
 I'm more interested in back-end and high level programming, but I've also worked in both front-end and low level contexts.
 I'm always open to explore new technologies in order to expand my knowledge bag.
 
-### Interests
+### Interests and hobbies:
 - I'm a huge sports fan, interested in both individual and team sports.
 - In the last few months I've been a contributor for Around The Game, an italian online magazine focused on the NBA.
 
