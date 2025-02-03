@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Marco and I'm a Sfotware Developer.
+Hi! My name is Marco and I'm a Software Developer.
 I'm more interested in back-end and high level programming, but I've also worked in both front-end and low level contexts.
 I'm always open to explore new technologies in order to expand my knowledge bag.
 
